@@ -1,4 +1,11 @@
-android_device_samsung_beni_aosp-ics
+Beni Device Tree For Compiling aosp-ics
 ====================================
 
-android_device_samsung_beni_aosp-ics
+Credits:
+
+Paul.L
+MMB Team
+
+Maintainer:
+
+The-Superman http://goo.gl/YO8nL
