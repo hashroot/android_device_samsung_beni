@@ -1,5 +1,7 @@
-Beni Device Tree For Compiling aosp-ics
+
 ====================================
+
+Beni Device Tree For Compiling aosp-ics
 
 Credits:
 
