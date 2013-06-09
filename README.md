@@ -1,4 +1,4 @@
-Device configuration for beni GT-S5670
+Device configuration for Beni GT-S5670
 --------------------------------------
 
 Getting Started
