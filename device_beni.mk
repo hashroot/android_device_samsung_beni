@@ -24,6 +24,7 @@ include device/samsung/msm7x27-common/common.mk
 
 ## Device specific overlay
 DEVICE_PACKAGE_OVERLAYS := device/samsung/beni/overlay
+			
 
 ## Camera
 PRODUCT_PACKAGES += \
@@ -42,7 +43,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     device/samsung/msm7x27-common/ramdisk/init.device.rc:root/init.gt-s5670board.rc \
     device/samsung/msm7x27-common/ramdisk/init.device.usb.rc:root/init.gt-s5670board.usb.rc \
-    device/samsung/msm7x27-common/ramdisk/ueventd.device.rc:root/ueventd.gt-s5570board.rc \
+    device/samsung/msm7x27-common/ramdisk/ueventd.device.rc:root/ueventd.gt-s5670board.rc \
     device/samsung/beni/ramdisk/BENI.rle:root/BENI.rle
 
 ## LDPI assets
